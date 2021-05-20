@@ -1,0 +1,7 @@
+live data links related to covid19_India_livedata
+
+https://api.covid19india.org/csv/latest/districts.csv
+
+https://raw.githubusercontent.com/covid19india/covid19india-react/master/public/maps/india.json
+
+https://raw.githubusercontent.com/SavithriBoda/Savi/master/IndiaStates.json
